@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "expect": "^26.1.0"
+  },
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
